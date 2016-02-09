@@ -2,6 +2,7 @@ name: heartandhead
 favicon: null
 layout_spectrum: 0.5202358276583254
 typography_spectrum: 0.22974514518864453
+title: 'Heart & Head'
 cta:
   domain: null
   bucket: null
